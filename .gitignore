@@ -8,3 +8,8 @@
 
 ## front
 **/*.lock
+
+.settings/
+.sts4-cache/
+.classpath
+.project
